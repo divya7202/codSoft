@@ -2,6 +2,8 @@ This repository contains a collection of projects I developed during my internsh
 
 Projects Included:
 Amazon Clone: A full-featured e-commerce platform replica with user authentication, product listings, and a shopping cart.
+ simple calculator: This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+ 
 
 
 Technologies Used:
