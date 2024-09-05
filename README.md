@@ -3,9 +3,6 @@ This repository contains a collection of projects I developed during my internsh
 Projects Included:
 Amazon Clone: A full-featured e-commerce platform replica with user authentication, product listings, and a shopping cart.
 
-To-Do App: A simple, responsive to-do list application built with HTML, CSS, and JavaScript, featuring persistent data storage.
-
-Temperature Conversion Tool: A web-based tool for converting temperatures between Celsius, Fahrenheit, and Kelvin, using PHP for server-side processing.
 
 Technologies Used:
 Frontend: HTML, CSS, JavaScript
